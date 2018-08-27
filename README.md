@@ -83,7 +83,7 @@ This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-th
 
 | Name | Explanation |
 | ---- | ----------- |
-
+| Mimo Baby | Checks on how your baby sleeps in order to prevent SIDS|
 
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
